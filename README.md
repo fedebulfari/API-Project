@@ -32,3 +32,7 @@ valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes ./progetto_
 
 # Performance Profiling (Callgrind)
 valgrind --tool=callgrind ./progetto_api
+
+## AI usage in development
+
+0%
